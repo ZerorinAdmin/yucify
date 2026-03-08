@@ -22,3 +22,6 @@ function doPost(e) {
 ```
 
 Set `VITE_APPS_SCRIPT_URL` in `.env` to your Apps Script web app deployment URL.
+
+
+check
