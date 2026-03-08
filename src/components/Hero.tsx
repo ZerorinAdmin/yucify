@@ -43,6 +43,8 @@ export function Hero({ modalOpen, setModalOpen, onOpenModal }: HeroProps) {
       });
       setEmail("");
       setModalOpen(false);
+      // Meta Pixel: track Lead for waitlist signup (Lead campaign)
+      window.fbq?.("track", "Lead");
     } catch (err) {
       console.error("Failed to submit:", err);
     } finally {
