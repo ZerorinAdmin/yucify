@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const LOGO_HEIGHT = 40;
 
@@ -13,14 +14,14 @@ export function Header() {
       }}
     >
       <div className="max-w-6xl mx-auto w-full flex items-center">
-        <a href="#" className="flex items-center">
+        <Link to="/" className="flex items-center">
           <img
             src="/yutric-logo.png"
             alt="YUTRIC"
             style={{ height: `${LOGO_HEIGHT}px`, width: "auto" }}
             className="block object-contain object-left"
           />
-        </a>
+        </Link>
       </div>
     </header>
   );

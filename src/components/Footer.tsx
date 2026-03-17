@@ -1,6 +1,5 @@
-import { Button } from "./ui/button";
+import { Link } from "react-router-dom";
 import { Separator } from "./ui/separator";
-import { Mail, Phone, MapPin, Linkedin, Twitter } from "lucide-react";
 
 export function Footer() {
   return (
@@ -71,11 +70,10 @@ export function Footer() {
           <div className="text-primary-foreground/80 text-sm">
             © 2026 YUTRIC. All rights reserved.
           </div>
-          {/* <div className="flex space-x-6 text-sm text-primary-foreground/80">
-            <a href="#" className="hover:text-primary-foreground transition-colors">Privacy Policy</a>
-            <a href="#" className="hover:text-primary-foreground transition-colors">Terms of Service</a>
-            <a href="#" className="hover:text-primary-foreground transition-colors">Cookie Policy</a>
-          </div> */}
+          <div className="flex space-x-6 text-sm text-primary-foreground/80">
+            <Link to="/privacy" className="hover:text-primary-foreground transition-colors">Privacy Policy</Link>
+            <Link to="/terms" className="hover:text-primary-foreground transition-colors">Terms of Service</Link>
+          </div>
         </div>
       </div>
     </footer>
