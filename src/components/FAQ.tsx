@@ -9,11 +9,11 @@ import { Zap } from "lucide-react";
 
 const faqs = [
   {
-    question: "How does Yutric connect to my Meta ad accounts?",
-    answer: "Yutric uses secure OAuth authentication to connect directly to your Meta Business Manager. Simply authorize access through Facebook's official API, and we'll start pulling your campaign data instantly. Your login credentials are never stored, and you can revoke access at any time."
+    question: "How does yucify connect to my Meta ad accounts?",
+    answer: "yucify uses secure OAuth authentication to connect directly to your Meta Business Manager. Simply authorize access through Facebook's official API, and we'll start pulling your campaign data instantly. Your login credentials are never stored, and you can revoke access at any time."
   },
   {
-    question: "What metrics and data does Yutric track?",
+    question: "What metrics and data does yucify track?",
     answer: "We track all key Meta advertising metrics including ROAS, CPA, CTR, impressions, reach, conversions, frequency, installs and more. Plus, we provide AI-powered insights on creative performance, audience behavior, and optimization opportunities across both Facebook and Instagram campaigns."
   },
   {
@@ -30,7 +30,7 @@ const faqs = [
   },
   {
     question: "Do I need to cancel my existing Meta Ads Manager?",
-    answer: "No, Yutric works alongside Meta Ads Manager. We pull data from your campaigns and provide enhanced analytics and AI-powered insights, but you continue to create and manage your actual campaigns through Meta's platform. Think of us as your intelligent analytics layer on top of Meta."
+    answer: "No, yucify works alongside Meta Ads Manager. We pull data from your campaigns and provide enhanced analytics and AI-powered insights, but you continue to create and manage your actual campaigns through Meta's platform. Think of us as your intelligent analytics layer on top of Meta."
   },
   {
     question: "What kind of support do you offer?",
@@ -59,7 +59,7 @@ export function FAQ({ onOpenModal }: FAQProps) {
             Frequently Asked Questions
           </h2>
           <p className="text-lg text-muted-foreground">
-            Everything you need to know about Yutric.
+            Everything you need to know about yucify.
           </p>
         </div>
 

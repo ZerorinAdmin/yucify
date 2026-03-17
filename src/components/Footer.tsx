@@ -8,7 +8,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div className="space-y-4">
             <div className="flex items-center">
-              <img src="/yutric-logo.png" alt="YUTRIC" className="h-10 w-auto" />
+              <img src="/yucify-logo.png" alt="yucify" className="h-10 w-auto" />
             </div>
             <p className="text-primary-foreground/80">
               AI-powered Meta Ads intelligence tool  to maximize your business by saving you time and money.
@@ -50,11 +50,11 @@ export function Footer() {
             <div className="space-y-3 text-primary-foreground/80">
               <div className="flex items-center space-x-2">
                 <Mail className="w-4 h-4" />
-                <span>hello@yutric.com</span>
+                <span>hello@yucify.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="w-4 h-4" />
-                <span>1-800-YUTRIC</span>
+                <span>1-800-yucify</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="w-4 h-4" />
@@ -68,7 +68,7 @@ export function Footer() {
 
         <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <div className="text-primary-foreground/80 text-sm">
-            © 2026 YUTRIC. All rights reserved.
+            © 2026 yucify. All rights reserved.
           </div>
           <div className="flex space-x-6 text-sm text-primary-foreground/80">
             <Link to="/privacy" className="hover:text-primary-foreground transition-colors">Privacy Policy</Link>

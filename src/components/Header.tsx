@@ -16,8 +16,8 @@ export function Header() {
       <div className="max-w-6xl mx-auto w-full flex items-center">
         <Link to="/" className="flex items-center">
           <img
-            src="/yutric-logo.png"
-            alt="YUTRIC"
+            src="/yucify-logo.png"
+            alt="yucify"
             style={{ height: `${LOGO_HEIGHT}px`, width: "auto" }}
             className="block object-contain object-left"
           />
