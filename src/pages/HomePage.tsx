@@ -17,26 +17,26 @@ declare global {
 export function HomePage() {
   const [modalOpen, setModalOpen] = useState(false);
 
-  const handleOpenAnalyzeModal = () => {
+  const handleAnalyzeMyAds = () => {
     if (typeof window !== "undefined" && window.gtag) {
       window.gtag("event", "click_analyze_my_ads", {
         event_category: "CTA",
         event_label: "Analyze My Ads",
       });
     }
-    setModalOpen(true);
+    window.location.href = "https://app.yucify.com";
   };
 
   return (
     <>
-      <Hero modalOpen={modalOpen} setModalOpen={setModalOpen} onOpenModal={handleOpenAnalyzeModal} />
+      <Hero modalOpen={modalOpen} setModalOpen={setModalOpen} onOpenModal={handleAnalyzeMyAds} />
       <Features />
       <CompetitorResearch />
       <Benefits />
       <Testimonials />
       <AdBreakdown />
       <Pricing />
-      <FAQ onOpenModal={handleOpenAnalyzeModal} />
+      <FAQ onOpenModal={handleAnalyzeMyAds} />
     </>
   );
 }
