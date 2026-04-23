@@ -11,7 +11,7 @@ export function TermsPage() {
         <p className="text-muted-foreground text-sm">Last updated: March 2025</p>
 
         <p>
-          We are Yucify, ("Company," "we," "us," "our"). We operate the website https://yucify.com/ (the "Site"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services"). You can contact us by email at madan1baral@gmail.com.
+          We are Yucify, ("Company," "we," "us," "our"). We operate the website https://yucify.com/ (the "Site"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services"). You can contact us by email at madan.b@zerorin.com.
         </p>
         <p>
           These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and Yucify, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. <strong>IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.</strong>
@@ -86,7 +86,7 @@ export function TermsPage() {
 
         <h2 className="text-xl font-semibold mt-12 mb-4">25. CONTACT US</h2>
         <p>
-          In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at: <a href="mailto:madan1baral@gmail.com" className="text-primary underline hover:no-underline">madan1baral@gmail.com</a>.
+          In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at: <a href="mailto:madan.b@zerorin.com" className="text-primary underline hover:no-underline">madan.b@zerorin.com</a>.
         </p>
       </article>
     </div>

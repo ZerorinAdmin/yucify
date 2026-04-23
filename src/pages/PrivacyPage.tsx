@@ -14,7 +14,7 @@ export function PrivacyPage() {
           This privacy notice for Yucify ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you visit our website at https://yucify.com, or any website of ours that links to this privacy notice, or engage with us in other related ways, including any sales, marketing, or events.
         </p>
         <p>
-          Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at madan1baral@gmail.com.
+          Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at madan.b@zerorin.com.
         </p>
 
         <h2 className="text-xl font-semibold mt-12 mb-4">Summary of Key Points</h2>
@@ -60,7 +60,7 @@ export function PrivacyPage() {
 
         <h2 className="text-xl font-semibold mt-12 mb-4">9. What Are Your Privacy Rights?</h2>
         <p>
-          You may review, change, or terminate your account at any time. If you want to terminate or delete your account, please contact us at madan1baral@gmail.com.
+          You may review, change, or terminate your account at any time. If you want to terminate or delete your account, please contact us at madan.b@zerorin.com.
         </p>
 
         <h2 className="text-xl font-semibold mt-12 mb-4">12. Do We Make Updates to This Notice?</h2>
@@ -70,12 +70,12 @@ export function PrivacyPage() {
 
         <h2 className="text-xl font-semibold mt-12 mb-4">13. How Can You Contact Us About This Notice?</h2>
         <p>
-          If you have questions or comments about this notice, you may email us at <a href="mailto:madan1baral@gmail.com" className="text-primary underline hover:no-underline">madan1baral@gmail.com</a>.
+          If you have questions or comments about this notice, you may email us at <a href="mailto:madan.b@zerorin.com" className="text-primary underline hover:no-underline">madan.b@zerorin.com</a>.
         </p>
 
         <h2 className="text-xl font-semibold mt-12 mb-4">14. How Can You Review, Update, or Delete the Data We Collect From You?</h2>
         <p>
-          Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. To request to review, update, or delete your personal information, please write to us at: madan1baral@gmail.com.
+          Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. To request to review, update, or delete your personal information, please write to us at: madan.b@zerorin.com.
         </p>
       </article>
     </div>

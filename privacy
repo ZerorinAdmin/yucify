@@ -1,0 +1,58 @@
+privacy
+
+1. Information We Collect
+Email Address (optional, if you contact support or create an account):
+We may collect and store your email address when you reach out to us, sign up for updates, or purchase Pro features. It is stored locally in our analytics system (no cloud database except for the email itself).
+
+Usage & Analytics Data:
+We use analytics tools (e.g., Firebase Analytics, Mixpanel, or similar) to understand how you use the App, what features are popular, and to fix bugs. This includes aggregated data like screen views, button taps, crash reports, and device type (model, OS version). Analytics data does not include your photos, videos, or any personal content.
+
+Advertising ID:
+To show relevant ads, we or our ad partners may collect your device's advertising identifier (IDFA on iOS, AAID on Android). You can reset or limit ad tracking in your device settings.
+
+2. What We DO NOT Collect
+Your photos or videos – They never leave your device. We do not upload, store, or process them on any server.
+
+Personal identifiers beyond email – No name, address, phone number, or government ID.
+
+Files from your gallery – All operations (grouping, duplication detection, deletion) happen locally on your phone.
+
+3. How We Use Your Email
+To respond to support inquiries.
+
+To send important service updates (rare, e.g., security or major feature changes).
+
+No marketing emails unless you explicitly opt-in.
+
+4. Data Sharing & Third Parties
+We do not sell, trade, or rent your email or analytics data to third parties. However:
+
+Ad networks (Google AdMob, etc.) receive basic device data and ad interaction data as per their own privacy policies.
+
+Analytics providers receive anonymized usage data to help us improve the App.
+
+We may disclose information if required by law.
+
+5. Data Storage & Security
+Your email is stored securely in our limited database (e.g., Firebase or similar).
+
+No personal content (photos/videos) is ever saved to our servers.
+
+We use industry-standard encryption for data in transit (HTTPS) and at rest (database encryption).
+
+6. Your Rights
+You may request deletion of your stored email by contacting madan.b@zerorin.com.
+
+You may opt out of analytics by disabling “Share Analytics” in the App settings (if provided).
+
+You may reset your advertising ID in your device settings.
+
+7. Children's Privacy
+The App is not intended for children under 13. We do not knowingly collect personal information from children.
+
+8. Changes to This Privacy Policy
+We may update this policy occasionally. The latest version will always be available within the App.
+
+9. Contact
+For privacy questions or to delete your email: madan.b@zerorin.com
+
