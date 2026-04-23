@@ -1,11 +1,6 @@
-import { Link } from "react-router-dom";
-
 export function PhotoCleanerPrivacyPage() {
   return (
     <div className="container mx-auto max-w-4xl px-4 py-16">
-      <Link to="/" className="text-primary hover:underline text-sm mb-8 inline-block">
-        ← Back to Home
-      </Link>
       <article className="max-w-none space-y-6 text-foreground">
         <h1 className="text-3xl font-bold mb-2">Privacy Policy</h1>
 

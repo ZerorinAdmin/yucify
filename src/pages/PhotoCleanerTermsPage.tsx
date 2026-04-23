@@ -1,13 +1,8 @@
-import { Link } from "react-router-dom";
-
 const APP_NAME = "Photo Cleaner";
 
 export function PhotoCleanerTermsPage() {
   return (
     <div className="container mx-auto max-w-4xl px-4 py-16">
-      <Link to="/" className="text-primary hover:underline text-sm mb-8 inline-block">
-        ← Back to Home
-      </Link>
       <article className="max-w-none space-y-6 text-foreground">
         <h1 className="text-3xl font-bold mb-2">Terms and Conditions</h1>
 
@@ -21,7 +16,7 @@ export function PhotoCleanerTermsPage() {
         <section className="space-y-3">
           <h2 className="text-xl font-semibold">2. Description of Service</h2>
           <p>
-            {APP_NAME} helps users organize, review, and delete photos and videos from their device based on months, duplicates, and manual selection. The App works entirely offline; no media files are uploaded or stored on our servers.
+            {APP_NAME} helps users organize, review, and delete photos and videos from their device based on months, duplicates, and manual selection. No media files are uploaded or stored on our servers.
           </p>
         </section>
 
